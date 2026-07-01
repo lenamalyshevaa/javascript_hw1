@@ -1,4 +1,5 @@
 describe("About this (about_this.js)", function() {
+describe("About this (about_this.js)", function() {
   it("'this' inside a method", function () {
     let person = {
       name: 'bob',
